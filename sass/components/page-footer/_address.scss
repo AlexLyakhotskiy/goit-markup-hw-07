@@ -1,0 +1,28 @@
+.address__item:not(:last-child) {
+  margin-bottom: 9px;
+}
+
+.address__text,
+.address__link {
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
+}
+
+.address__text {
+  color: map-get($color, 'bg-primal');
+}
+
+.address__link {
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+  color: rgba(255, 255, 255, 0.6);
+
+  @include transition(color);
+
+  &:focus,
+  &:hover {
+    color: map-get($color, 'accent');
+  }
+}
