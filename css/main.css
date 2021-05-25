@@ -46,8 +46,8 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .logo:focus, .logo:hover {
@@ -108,8 +108,8 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #212121;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-menu__link:hover, .site-menu__link:focus {
@@ -156,8 +156,8 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-contact__link:hover, .site-contact__link:focus {
@@ -191,8 +191,8 @@ body {
   background-color: #2196f3;
   border: none;
   border-radius: 4px;
-  -webkit-transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .button:focus, .button:hover {
@@ -422,10 +422,10 @@ body {
       -ms-flex-align: center;
           align-items: center;
   color: #afb1b8;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  -webkit-transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .team-social__link:focus, .team-social__link:hover {
@@ -463,10 +463,10 @@ body {
       -ms-flex-align: center;
           align-items: center;
   cursor: pointer;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  -webkit-transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .clients-list__link:hover, .clients-list__link:focus {
@@ -516,8 +516,8 @@ body {
   padding-top: 4px;
   padding-bottom: 4px;
   color: rgba(255, 255, 255, 0.6);
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .address__link:focus, .address__link:hover {
@@ -558,8 +558,8 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  -webkit-transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: background-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .site-social__link:hover, .site-social__link:focus {
@@ -614,8 +614,8 @@ body {
   background-color: inherit;
   color: rgba(255, 255, 255, 0.6);
   outline: none;
-  -webkit-transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .form-subscription__field:focus-within .form-subscription__input {
@@ -630,8 +630,8 @@ body {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.2);
-  -webkit-transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: opacity 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .backdrop.is-hidden {
@@ -656,10 +656,10 @@ body {
           box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
   background-color: #ffffff;
-  -webkit-transition: -webkit-transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: -webkit-transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: transform 500ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1), -webkit-transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .main-form {
@@ -708,8 +708,8 @@ body {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   outline: none;
-  -webkit-transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .main-form__field:focus-within .main-form__input {
@@ -743,8 +743,8 @@ body {
   border-radius: 4px;
   resize: none;
   outline: none;
-  -webkit-transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: border-color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .main-form__comment::-webkit-input-placeholder {
@@ -823,8 +823,8 @@ body {
 
 .main-form__contract-link {
   color: #2196f3;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .main-form__contract-link:hover, .main-form__contract-link:focus {
@@ -852,8 +852,8 @@ body {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  -webkit-transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .close-button:hover, .close-button:focus {
