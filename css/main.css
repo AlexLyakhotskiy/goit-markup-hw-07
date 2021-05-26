@@ -398,17 +398,17 @@ body {
   line-height: 1.19;
 }
 
-.team-social {
+.team-list__socials {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.team-social__item:not(:last-child) {
+.team-list__socials-item:not(:last-child) {
   margin-right: 10px;
 }
 
-.team-social__link {
+.team-list__socials-link {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -428,12 +428,12 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.team-social__link:focus, .team-social__link:hover {
+.team-list__socials-link:focus, .team-list__socials-link:hover {
   color: #ffffff;
   background-color: #2196f3;
 }
 
-.team-social__icon {
+.team-list__socials-icon {
   fill: currentColor;
 }
 
@@ -501,8 +501,7 @@ body {
   margin-bottom: 9px;
 }
 
-.address__text,
-.address__link {
+.address__text, .address__link {
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
